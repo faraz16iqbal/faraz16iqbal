@@ -1,7 +1,7 @@
 ### Hi, I am Faraz 👋
 
 - 🔭 I’m currently working on **React**
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Golang**
 - 👯 I’m looking to collaborate on **Full Stack Web Developemnt**
 - 🤔 I’m looking for help with **Data Structures and Algorithms**
 
